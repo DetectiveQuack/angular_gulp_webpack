@@ -1,0 +1,6 @@
+@import 'test';
+
+.b {
+    @extend .a;
+    color: red;
+}
